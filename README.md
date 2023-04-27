@@ -1,2 +1,3 @@
 # discount-chain
-Block 16 Workshop
+# Block 16 Workshop
+# Workshop: Discount Chain
